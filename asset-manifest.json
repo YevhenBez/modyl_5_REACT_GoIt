@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modyl_5_REACT_GoIt/static/css/main.7acaea2f.css",
+    "main.js": "/modyl_5_REACT_GoIt/static/js/main.07d3183d.js",
+    "index.html": "/modyl_5_REACT_GoIt/index.html",
+    "main.7acaea2f.css.map": "/modyl_5_REACT_GoIt/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/modyl_5_REACT_GoIt/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
